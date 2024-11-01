@@ -12,6 +12,9 @@ With the increasing demand for accessible health solutions, the eCommerce landsc
 - **Technological Advancements**: Enhanced digital platforms enabling seamless integration of online and offline sales.
 
 ### Project Focus
+
+![Project Focus](https://github.com/TetianaShchudla/CHC-data-PowerBI/blob/main/assets/CHC-online.jpeg)
+
 This project aims to build a comprehensive **eCommerce Analytics report** that evaluates sales performance across various regions. The report is designed to deliver insights on:
 
 - **Product Performance**: Analysis of how products are performing in different markets.
