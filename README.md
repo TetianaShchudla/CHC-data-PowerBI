@@ -1,6 +1,6 @@
 # Consumer Healthcare eCommerce Analytics Report
 
-This project focuses on building a comprehensive **eCommerce Analytics report** that evaluates sales performance across various regions, utilizing data from both online and offline sources. The report is designed to deliver insights on product performance, sales trends, and growth opportunities across multiple sales channels.
+The **Consumer Healthcare** industry encompasses a wide range of products designed to support individuals' health and wellness, including over-the-counter medications and wellness supplements. With the increasing demand for accessible health solutions, the eCommerce landscape for Consumer Healthcare has rapidly expanded, integrating online and offline sales data to provide comprehensive performance insights. This project focuses on building a comprehensive **eCommerce Analytics report** that evaluates sales performance across various regions, delivering insights on product performance, sales trends, and growth opportunities across multiple sales channels.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -10,7 +10,6 @@ This project focuses on building a comprehensive **eCommerce Analytics report** 
 - [Project Workflow](#project-workflow)
 
 ## Project Overview
-
 The **Consumer Healthcare eCommerce Analytics report** aims to consolidate and analyze sales data across different regions and channels. This analysis helps in understanding product performance in various markets, comparing sales across eCommerce and physical stores, and identifying trends over time.
 
 ## Objective
@@ -47,3 +46,8 @@ The dataset is structured to provide multiple levels of segmentation:
 2. **Report Building**: Creating a Power BI report that delivers insights on product performance segmented by region, channel, and other key metrics.
 
 ---
+
+## Conclusion
+This project aims to enhance understanding of sales dynamics within the Consumer Healthcare sector, driving data-informed decision-making and strategic planning. For further information, feedback, or collaboration opportunities, please feel free to reach out.
+
+:star2: Thank you for your interest in the Consumer Healthcare eCommerce Analytics Report!
