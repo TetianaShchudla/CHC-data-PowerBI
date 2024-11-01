@@ -1,7 +1,3 @@
-# Consumer Healthcare Project: Comprehensive eCommerce Analytics Report
-
-![image](https://github.com/TetianaShchudla/CHC-data-PowerBI/blob/main/assets/CHC-Dashboard.png)
-
 # Consumer Healthcare eCommerce Analytics Report
 
 This project focuses on building a comprehensive **eCommerce Analytics report** that evaluates sales performance across various regions, utilizing data from both online and offline sources. The report is designed to deliver insights on product performance, sales trends, and growth opportunities across multiple sales channels.
@@ -10,6 +6,7 @@ This project focuses on building a comprehensive **eCommerce Analytics report** 
 - [Project Overview](#project-overview)
 - [Objective](#objective)
 - [Data Structure](#data-structure)
+- [Dashboard Preview](#dashboard-preview)
 - [Project Workflow](#project-workflow)
 
 ## Project Overview
@@ -39,6 +36,11 @@ The dataset is structured to provide multiple levels of segmentation:
 - **Sales Metrics**: Key metrics like `PeriodSales` (monthly sales) and `PACK` (units sold).
 - **Reference Products and Markets**: Comparative fields for competitive analysis.
 - **Time Periods**: Fields like `EndDate` and `LaunchDate` to track performance over time.
+
+## Dashboard Preview
+![Dashboard Preview](https://github.com/TetianaShchudla/CHC-data-PowerBI/blob/main/assets/CHC-Dashboard.png)
+
+*Figure: Example of the eCommerce Analytics dashboard showing key performance indicators across regions and channels.*
 
 ## Project Workflow
 1. **Data Integration**: Combining existing data with new country-level data across sales channels, structured to support detailed analysis by region, channel, and product segment.
