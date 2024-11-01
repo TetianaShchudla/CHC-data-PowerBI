@@ -1,6 +1,22 @@
 # Consumer Healthcare eCommerce Analytics Report
 
-The **Consumer Healthcare** industry encompasses a wide range of products designed to support individuals' health and wellness, including over-the-counter medications and wellness supplements. With the increasing demand for accessible health solutions, the eCommerce landscape for Consumer Healthcare has rapidly expanded, integrating online and offline sales data to provide comprehensive performance insights. This project focuses on building a comprehensive **eCommerce Analytics report** that evaluates sales performance across various regions, delivering insights on product performance, sales trends, and growth opportunities across multiple sales channels.
+The **Consumer Healthcare** industry plays a vital role in supporting individuals' health and wellness. It includes a diverse range of products, such as:
+
+- **Over-the-Counter Medications**: Products that can be purchased without a prescription.
+- **Wellness Supplements**: Nutritional and health supplements aimed at improving overall well-being.
+
+### Industry Overview
+With the increasing demand for accessible health solutions, the eCommerce landscape for Consumer Healthcare has rapidly expanded. Key factors contributing to this growth include:
+
+- **Shifts in Consumer Behavior**: A growing preference for online shopping and convenience.
+- **Technological Advancements**: Enhanced digital platforms enabling seamless integration of online and offline sales.
+
+### Project Focus
+This project aims to build a comprehensive **eCommerce Analytics report** that evaluates sales performance across various regions. The report is designed to deliver insights on:
+
+- **Product Performance**: Analysis of how products are performing in different markets.
+- **Sales Trends**: Identification of emerging trends and patterns in sales data.
+- **Growth Opportunities**: Recommendations for optimizing product availability and driving growth across multiple sales channels.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
